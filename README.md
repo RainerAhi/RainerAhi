@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://rainer-ahi-portfolio.vercel.app/](https://rainer-ahi-portfolio.vercel.app/)
 
+- ⚡ Fun fact **I'm a 400m runner**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
